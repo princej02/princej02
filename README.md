@@ -7,7 +7,6 @@ Below are the languages/stack i am currently using.
 ![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,html,css,sass,wasm,figma,react,flutter,dotnet,express,gatsby,nextjs,laravel)
 
 
-[![Princej02's github stats](https://github-readme-stats.vercel.app/api?username=princej02&theme=blue-green)]
-[![Princej02's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princej02&theme=blue-green)]
+
 
 
