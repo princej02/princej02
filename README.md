@@ -1,12 +1,14 @@
 ### Hi there, I'm Prince. 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+domain)](https://git.io/typing-svg)
 
-I am a self-taught frontend developer and UI/UX designer. Currently learning new skills and making random projects in my freetime. 
-Below are the languages/stack i am currently using.
+🚀 "In the realm of innovation, I am a creator turning ideas into reality, code into art, and the unseen into the unforgettable. 
+My stack is my craft, and the future is my canvas."
+💻Current Stack.
+![My Skills](https://skillicons.dev/icons?i=ts,php,py,html,css,tailwind,figma,threejs,react,vue,vitest,supabase,prisma)
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,html,css,sass,wasm,figma,react,flutter,dotnet,express,gatsby,nextjs,laravel)
-
-
+📊 Stats: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princej02&show_icons=true&theme=radical)  
+🎵 Now Playing: ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=0iMTGU9TcOOHddbN3CJdf1&cover_image=true&theme=default)  
+🕹️ Fun: ![Snake Game](https://github.com/princej02/princej02/blob/output/github-contribution-grid-snake.svg)  
 
 
 
