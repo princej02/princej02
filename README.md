@@ -1,5 +1,5 @@
 ### Hi there, I'm Prince. 👋  
-**Full-Stack Developer**
+**Design Engineer**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+domain)](https://git.io/typing-svg)  
 
@@ -9,7 +9,7 @@
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princej02&layout=compact&theme=radical)
 
 
 
