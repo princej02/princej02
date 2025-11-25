@@ -5,7 +5,7 @@
 
 ### 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=ts,php,py,html,css,tailwind,figma,threejs,react,vue,vitest,supabase,prisma)  
+![My Skills](https://skillicons.dev/icons?i=ts,go,cs,php,py,html,css,tailwind,figma,threejs,dotnet,react,vue,vitest,supabase,prisma)  
 
 
 
